@@ -3,6 +3,6 @@ Homebrew formula for SVT-AV1 video codec.
 
 ## Usage
 ```
-> brew tap grusell/svt-av1
-> brew install svt-av1
+> brew tap pigfoot/svt-av1
+> brew install pigfoot/svt-av1/svt-av1
 ```
